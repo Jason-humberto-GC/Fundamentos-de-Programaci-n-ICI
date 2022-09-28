@@ -1,3 +1,5 @@
+<img src="https://siceuc2.ucol.mx/becatitulaciongobiernodelestado/Assets/images/03UdeC_publi_80.png">
+
 # Universidad de Colima 
 ## Facultad de Ingeniería Mecánica y Eléctrica 
 ### "Ingenieria en Computacion Inteligente"
@@ -8,7 +10,7 @@
 
 ---------------------------------------------------
 
-# Portafolio de programas relalizado en la primera parcial
+# Portafolio de programas relalizado en la primera parcial en lenguage python 
 
 ---------------------------------------------------------
 
